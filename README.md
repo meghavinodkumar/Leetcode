@@ -15,6 +15,7 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/meghavinodkumar/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/meghavinodkumar/Leetcode/tree/master/0263-ugly-number) |
 ## Simulation
 |  |
 | ------- |
