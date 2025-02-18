@@ -24,4 +24,12 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/meghavinodkumar/Leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/meghavinodkumar/Leetcode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/meghavinodkumar/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
