@@ -7,6 +7,7 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghavinodkumar/Leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/meghavinodkumar/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A space to post all my Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/meghavinodkumar/Leetcode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/meghavinodkumar/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
