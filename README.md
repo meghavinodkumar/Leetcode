@@ -33,5 +33,14 @@ A space to post all my Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/meghavinodkumar/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1894-merge-strings-alternately](https://github.com/meghavinodkumar/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/meghavinodkumar/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/meghavinodkumar/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
