@@ -7,11 +7,13 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghavinodkumar/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/meghavinodkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/meghavinodkumar/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghavinodkumar/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/meghavinodkumar/Leetcode/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/meghavinodkumar/Leetcode/tree/master/0010-regular-expression-matching) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/meghavinodkumar/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
