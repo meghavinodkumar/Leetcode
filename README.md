@@ -10,6 +10,7 @@ A space to post all my Leetcode solutions
 | [0036-valid-sudoku](https://github.com/meghavinodkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/meghavinodkumar/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/meghavinodkumar/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/meghavinodkumar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/meghavinodkumar/Leetcode/tree/master/0605-can-place-flowers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/meghavinodkumar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
