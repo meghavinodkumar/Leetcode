@@ -9,6 +9,7 @@ A space to post all my Leetcode solutions
 | [0001-two-sum](https://github.com/meghavinodkumar/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/meghavinodkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/meghavinodkumar/Leetcode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/meghavinodkumar/Leetcode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A space to post all my Leetcode solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/meghavinodkumar/Leetcode/tree/master/0036-valid-sudoku) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/meghavinodkumar/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
